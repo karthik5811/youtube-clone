@@ -1,0 +1,181 @@
+.thumbnail-1{
+
+  width: 100%;
+  position: relative;
+}
+
+.channel-image{
+
+display:  inline-block;
+vertical-align: top;
+width: 50px;
+height: 140px;
+
+}
+
+.grid-1{
+
+  display: grid;
+  grid-template-columns: 330px 330px 330px 330px;
+  column-gap: 15px;
+  row-gap: 15px;
+  margin-top: 70px;
+  margin-left: 80px;
+  margin-right: 0px;
+  background-color: white;
+}
+.line1.line2.line3{
+  font-family: 'Roboto', sans-serif;
+
+}
+.line1{
+  width: 250px;
+  font-weight: bolder;
+  font-size: small;
+  font-size: 14px;
+
+  
+  
+}
+.line2{
+color: #6c757d;;
+font-size: 13px;
+margin-bottom: 0px;
+}
+
+.line3{
+  color: grey;
+  margin-top: 2px;
+  font-size: 13px;
+
+
+}
+
+.image1{
+height: 40px;
+width: 40px;
+  border-radius: 20px;
+  margin-top: 5px;
+ display: inline-block;
+  
+}
+
+.side-bar{
+width: 72px;
+background-color: whitesmoke;
+top: 57px;
+position: fixed;
+left: 0;
+bottom: 0;
+margin-left: 5px;
+
+
+}
+.image-div{
+  align-items: center;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 2px;
+  display: flex;
+margin-top: 10px;
+}
+
+.text-1{
+
+  font-size: x-small;
+  margin-top: 0px;
+  margin-left: 15px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.explore-div{
+
+ 
+  margin-top: 20px;
+  display: flex;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 2px;
+}
+
+.text-2{
+
+  font-size: x-small;
+  margin-top: 3px;
+  margin-left: 15px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.subscribe-div{
+  margin-top: 20px;
+  align-items: center;
+  padding-left: 15px;
+  padding-top: 10px;
+display: flex;
+}
+
+.text-3{
+
+  font-size: x-small;
+  margin-top: 0px;
+  padding-left: 3px;
+  margin-top: 3px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.original-div{
+  margin-top: 20px;
+  align-items: center;
+  padding-left: 15px;
+  padding-top: 10px;
+display: flex;
+}
+
+.text-4{
+
+  font-size: x-small;
+  margin-top: 3px;
+  margin-left: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+.music-div{
+  align-items: center;
+  padding-left: 15px;
+  padding-top: 10px;
+  display: flex;
+  margin-top: 20px;
+}
+
+.text-5{
+
+  font-size: x-small;
+  margin-top: 3px;
+  margin-left: 0px;
+  padding-left: 4px;
+  font-family: 'Roboto', sans-serif;
+}
+.library-div{
+  margin-top: 20px;
+  align-items: center;
+  padding-left: 15px;
+  padding-top: 10px;
+display: flex;
+}
+
+.text-6{
+
+  font-size: x-small;
+  margin-top: 3px;
+  margin-left: 15px;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.home-button,.explore-button,.suscription-button,.original-button,.music-button,.library-button{
+height: 24px;
+width: 24px;
+
+
+}
+
+

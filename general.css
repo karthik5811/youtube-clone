@@ -1,0 +1,11 @@
+p{
+  font-family: 'Roboto', sans-serif;
+}
+
+.time-stamp{
+  background-color: black;
+  color: white;
+  position: absolute;
+  right: 0;
+  bottom: 10;
+}
